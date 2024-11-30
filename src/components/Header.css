@@ -1,0 +1,14 @@
+.flexList {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.navClass {
+  text-decoration: none;
+  color: white;
+}
+
+.navClass:hover {
+  color: wheat;
+}
